@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Renault Magnum",
+    "state": "route"
+  },
+  {
+    "id": 2,
+    "name": "Volvo FH12",
+    "driver": "df",
+    "state": "on_base"
+  },
+  {
+    "id": 3,
+    "name": "DAF XF",
+    "driver": "",
+    "state": "on_base"
+  }
+]
